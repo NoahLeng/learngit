@@ -4,4 +4,4 @@
 [push]
     default = matching
 [core]
-	excludesfile = /Users/Noah/.gitignore
+	excludesfile = /Users/Noah/NoahLeng/learngit/.gitignore
