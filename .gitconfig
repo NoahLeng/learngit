@@ -1,0 +1,7 @@
+[user]
+    name = Noah
+    email = lengshinan@163.com
+[push]
+    default = matching
+[core]
+	excludesfile = /Users/Noah/.gitignore_global
