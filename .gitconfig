@@ -4,4 +4,4 @@
 [push]
     default = matching
 [core]
-	excludesfile = /Users/Noah/.gitignore_global
+	excludesfile = /Users/Noah/.gitignore
